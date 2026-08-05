@@ -1,20 +1,11 @@
-# Question Paper Builder 📄
+# Question Paper Builder 
 
 A C++ console-based application to build and generate question papers dynamically using a question bank.
 
 ---
 
-## 🚀 Features
 
-- Add questions with topic, marks, and difficulty
-- Store questions using STL vectors
-- Automatically generate question paper based on total marks
-- Export question paper to a text file
-- Menu-driven user interface
-
----
-
-## 🧠 Concepts Used
+##  Concepts Used
 
 - Object-Oriented Programming (Classes & Structures)
 - STL (`vector`)
@@ -23,7 +14,7 @@ A C++ console-based application to build and generate question papers dynamicall
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C++
 - Standard Template Library (STL)
@@ -36,5 +27,6 @@ A C++ console-based application to build and generate question papers dynamicall
 
 👤 Author
 Adithya Nayak
+MIT MANIPAL
    ```bash
    g++ main.cpp -o question_paper
